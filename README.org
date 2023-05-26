@@ -1,0 +1,9 @@
+* asd-generator
+
+Automatic generator for ASDF's .asd files
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/phoe/asd-generator.git |
+| commit  | 27f9497                                       |
+| systems | asd-generator                                 |
+|---------+-----------------------------------------------|
